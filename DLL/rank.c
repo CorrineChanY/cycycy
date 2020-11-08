@@ -1,5 +1,5 @@
 
-void rankdown2(int *num, int n)
+void rankdown(int *num, int n)
 {
     int i, j, k;
     int tmp;
