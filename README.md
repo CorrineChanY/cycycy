@@ -1,2 +1,2 @@
 # cycycy
-an example git-learning repository
+Dian团队C语言培训作业

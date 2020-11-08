@@ -1,0 +1,1 @@
+object = rank.c
